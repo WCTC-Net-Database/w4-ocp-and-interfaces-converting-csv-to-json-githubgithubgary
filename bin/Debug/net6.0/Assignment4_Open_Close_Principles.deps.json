@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assignment4_Open_Close_Principles/1.0.0": {
+        "dependencies": {
+          "Crayon": "2.0.69",
+          "CsvHelper": "33.0.1"
+        },
+        "runtime": {
+          "Assignment4_Open_Close_Principles.dll": {}
+        }
+      },
+      "Crayon/2.0.69": {
+        "runtime": {
+          "lib/netstandard2.0/Crayon.dll": {
+            "assemblyVersion": "2.0.69.0",
+            "fileVersion": "2.0.69.0"
+          }
+        }
+      },
+      "CsvHelper/33.0.1": {
+        "runtime": {
+          "lib/net6.0/CsvHelper.dll": {
+            "assemblyVersion": "33.0.0.0",
+            "fileVersion": "33.0.1.24"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment4_Open_Close_Principles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Crayon/2.0.69": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eJHxoMTfhZs1782YUIMafXIDTPcTwAV5I3MNsl2d4Mn61/h3ABPMSzHwzigL/NO7BrCKRoP4gHJuERpLHdSCvg==",
+      "path": "crayon/2.0.69",
+      "hashPath": "crayon.2.0.69.nupkg.sha512"
+    },
+    "CsvHelper/33.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fev4lynklAU2A9GVMLtwarkwaanjSYB4wUqO2nOJX5hnzObORzUqVLe+bDYCUyIIRQM4o5Bsq3CcyJR89iMmEQ==",
+      "path": "csvhelper/33.0.1",
+      "hashPath": "csvhelper.33.0.1.nupkg.sha512"
+    }
+  }
+}
